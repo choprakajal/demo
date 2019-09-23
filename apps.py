@@ -3,4 +3,7 @@ from django.apps import AppConfig
 
 class BlogConfig(AppConfig):
     name = 'Blog'
-##comment
+# 1
+#2
+
+#comment
